@@ -2,6 +2,7 @@
 A mini-project simulating a Satellite Command System
 ### Exp 1
 Six different use cases to demonstrate understanding of Software Design Patterns
+---
 -> Two use cases for each pattern type (Creational,Behavioural,Structural)
 
 ### Exp 2
