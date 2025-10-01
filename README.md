@@ -3,7 +3,7 @@ A mini-project simulating a Satellite Command System
 ### 📚 Exercise 1: Design Patterns – Problem Statement
 ## ✨ Overview
 Demonstration of six different use cases understanding of Software Design Patterns.
-Two use cases for each pattern type (Creational,Behavioural,Structural)
+Two use cases for each pattern type (Behavioural,Creational,Structural)
 
 ---
 ## 📝 Design Patterns Summary
@@ -11,10 +11,10 @@ Two use cases for each pattern type (Creational,Behavioural,Structural)
 | --------------- | ------------- | ----------------------------------- | ------------------------------------------------------------------------ |
 | **Behavioural** | **State**     | *Traffic Light System*              | Manages traffic light states (Red, Green, Yellow) by changing behavior dynamically.|
 | **Behavioural** | **Strategy**  | *Payment Gateway Selection*         | Allows dynamic selection of payment methods (Credit Card, UPI, Wallet).  |
-| **Creational**  | **Factory**   | *Vending Machine Item Selection*    | Creates different vending machine items without exposing creation logic. |
+| **Creational**  | **Factory**   | *Vending Machine Item Selection*    | Dynamically creates different vending machine items (like drinks and chocolates) by centralizing the creation process. |
 | **Creational**  | **Builder**   | *Computer Configuration System*     | Builds customizable computers with optional parts.                       |
 | **Structural**  | **Adapter**   | *Legacy Payment System Integration* | Integrates old payment system into new apps without changing code.       |
-| **Structural**  | **Composite** | *Online Coffee Shop*                | Dynamically adds ingredients (Milk, Sugar, Chocolate) to a coffee order. |
+| **Structural**  | **Composite** | *File System*                       | Represents files and folders in a tree structure where both can be treated uniformly. |
 
 
 ### Exp 2
