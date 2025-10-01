@@ -47,27 +47,27 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 
 
 ## 📂 Project Structure
-Exp2/
- └── SatelliteSystem/
-      ├── Main.java
-      ├── controller/
-      │    └── SatelliteController.java
-      ├── core/
-      │    ├── Satellite.java
-      │    └── SatelliteProxy.java
-      ├── command/
-      │    ├── ICommand.java
-      │    ├── RotateCommand.java
-      │    ├── ActivatePanelsCommand.java
-      │    ├── DeactivatePanelsCommand.java
-      │    └── CollectDataCommand.java
-      ├── observer/
-      │    ├── ISatelliteObserver.java
-      │    └── Logger.java
-      └── exceptions/
-           ├── InvalidCommandException.java
-           ├── InvalidDirectionException.java
-           └── PanelInactiveException.java
+**Exp2**/
+└── **SatelliteSystem/**
+     ├── Main.java
+     ├── **controller/**
+     │    └── SatelliteController.java
+     ├── **core/**
+     │    ├── Satellite.java
+     │    └── SatelliteProxy.java
+     ├── **command/**
+     │    ├── ICommand.java
+     │    ├── RotateCommand.java
+     │    ├── ActivatePanelsCommand.java
+     │    ├── DeactivatePanelsCommand.java
+     │    └── CollectDataCommand.java
+     ├── **observer/**
+     │    ├── ISatelliteObserver.java
+     │    └── Logger.java
+     └── **exceptions/**
+          ├── InvalidCommandException.java
+          ├── InvalidDirectionException.java
+          └── PanelInactiveException.java
 
 ## ⚡ How to Compile
 From project root :
