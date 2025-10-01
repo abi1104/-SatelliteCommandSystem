@@ -67,7 +67,7 @@ Exp2/
      └── **exceptions/**  
           ├── InvalidCommandException.java  
           ├── InvalidDirectionException.java  
-          └── PanelInactiveException.java  
+          └── PanelInactiveException.java 
 
 ## ⚡ How to Compile
 From project root :
