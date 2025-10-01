@@ -63,11 +63,11 @@ Exp2/
      ├── **observer/**  
      │    ├── ISatelliteObserver.java  
      │    └── Logger.java  
-     └── **exceptions/**  
+     ├──**exceptions/**  
      |     ├── InvalidCommandException.java  
      |     ├── InvalidDirectionException.java  
      |     └── PanelInactiveException.java  
-     ├── Main.java  
+     └── Main.java  
 
 ## ⚡ How to Compile
 From project root :
