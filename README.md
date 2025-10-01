@@ -47,14 +47,14 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 
 
 ## 📂 Project Structure
-Exp2/
-└── **SatelliteSystem/**
-     ├── Main.java
-     ├── **controller/**
-     │    └── SatelliteController.java
-     ├── **core/**
-     │    ├── Satellite.java
-     │    └── SatelliteProxy.java
+Exp2/  
+└── **SatelliteSystem/**  
+     ├── Main.java  
+     ├── **controller/**  
+     │    └── SatelliteController.java  
+     ├── **core/**  
+     │    ├── Satellite.java  
+     │    └── SatelliteProxy.java  
      ├── **command/**
      │    ├── ICommand.java
      │    ├── RotateCommand.java
