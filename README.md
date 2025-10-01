@@ -73,10 +73,10 @@ Exp2/
 From project root :
    javac -d Exp2/bin Exp2/SatelliteSystem/exceptions/*.java Exp2/SatelliteSystem/observer/*.java Exp2/SatelliteSystem/core/*.java Exp2/SatelliteSystem/command/*.java Exp2/SatelliteSystem/controller/*.java     Exp2/SatelliteSystem/*.java
 
-## How to Run
+## ⚡ How to Run
 From project root :
   java -cp Exp2/bin SatelliteSystem.Main
-## Compile and Run
+## ⚡ Compile and Run
 In simpler manner : start Debug and Run (VSCode)
 
 ## 💻 Sample Usage
