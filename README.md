@@ -5,7 +5,6 @@ A mini-project simulating a Satellite Command System
 Demonstration of six different use cases understanding of Software Design Patterns.
 Two use cases for each pattern type (Behavioural,Creational,Structural)
 
----
 ## 📝 Design Patterns Summary
 | **Category**    | **Pattern**   | **Use Case**                        | **Description**                                                          |
 | --------------- | ------------- | ----------------------------------- | ------------------------------------------------------------------------ |
@@ -16,7 +15,7 @@ Two use cases for each pattern type (Behavioural,Creational,Structural)
 | **Structural**  | **Adapter**   | *Legacy Payment System Integration* | Integrates old payment system into new apps without changing code.       |
 | **Structural**  | **Composite** | *File System*                       | Represents files and folders in a tree structure where both can be treated uniformly. |
 
-
+---
 ## 🛰️Experiment 2: Mini Project - Satellite Command System
 ## 📌 Overview
 The **Satellite Command System** is a Java-based mini-project that simulates satellite operations such as:
@@ -25,7 +24,7 @@ The **Satellite Command System** is a Java-based mini-project that simulates sat
 - Collecting data (*only if panels are active*)
 - Maintaining correct satellite state
 The project also includes enhancements like **Undo/Redo, Command History, Logging, and Custom Exceptions** to make it more realistic and extensible.
----
+
 
 ## 🎯 Features
 - ✅ Rotate Satellite (N/S/E/W)
@@ -37,7 +36,7 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 - ✅ Logger (Observer Pattern) for state changes
 - ✅ Custom Exception handling
 
----
+
 ## 🏗️ Design Patterns Used
 | Pattern       | Type       | Where Used                                            | Why                                            |
 | ------------- | ---------- | ----------------------------------------------------- | ---------------------------------------------- |
@@ -47,7 +46,6 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 | **Observer**  | Behavioral | `Logger`                                              | Logs/monitors state changes automatically      |
 
 
----
 ## 📂 Project Structure
 Exp2/
  └── SatelliteSystem/
