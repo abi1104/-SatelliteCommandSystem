@@ -69,19 +69,16 @@ Exp2/
            ├── InvalidDirectionException.java
            └── PanelInactiveException.java
 
----
 ## ⚡ How to Compile
 From project root :
    javac -d Exp2/bin Exp2/SatelliteSystem/exceptions/*.java Exp2/SatelliteSystem/observer/*.java Exp2/SatelliteSystem/core/*.java Exp2/SatelliteSystem/command/*.java Exp2/SatelliteSystem/controller/*.java     Exp2/SatelliteSystem/*.java
 
----
 ## How to Run
 From project root :
   java -cp Exp2/bin SatelliteSystem.Main
 ## Compile and Run
 In simpler manner : start Debug and Run (VSCode)
 
----
 ## 💻 Sample Usage
 # Initial Setup
  <img width="940" height="88" alt="image" src="https://github.com/user-attachments/assets/1ec80a15-efd0-4f52-b5ad-00776f727f54" />
@@ -92,7 +89,7 @@ In simpler manner : start Debug and Run (VSCode)
 # Exception Handling
 <img width="940" height="219" alt="image" src="https://github.com/user-attachments/assets/8faf9cfe-2186-4758-9822-f7691d949aaf" />
 
-
+---
 
 
 
