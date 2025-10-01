@@ -47,7 +47,7 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 
 
 ## 📂 Project Structure
-**Exp2**/
+Exp2/
 └── **SatelliteSystem/**
      ├── Main.java
      ├── **controller/**
