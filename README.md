@@ -66,7 +66,7 @@ Exp2/
      └── **exceptions/**  
      |     ├── InvalidCommandException.java  
      |     ├── InvalidDirectionException.java  
-     |     └── PanelInactiveException.java 
+     |     └── PanelInactiveException.java  
      ├── Main.java  
 
 ## ⚡ How to Compile
