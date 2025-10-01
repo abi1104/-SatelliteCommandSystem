@@ -55,19 +55,19 @@ Exp2/
      ├── **core/**  
      │    ├── Satellite.java  
      │    └── SatelliteProxy.java  
-     ├── **command/**
-     │    ├── ICommand.java
-     │    ├── RotateCommand.java
-     │    ├── ActivatePanelsCommand.java
-     │    ├── DeactivatePanelsCommand.java
-     │    └── CollectDataCommand.java
-     ├── **observer/**
-     │    ├── ISatelliteObserver.java
-     │    └── Logger.java
-     └── **exceptions/**
-          ├── InvalidCommandException.java
-          ├── InvalidDirectionException.java
-          └── PanelInactiveException.java
+     ├── **command/**  
+     │    ├── ICommand.java  
+     │    ├── RotateCommand.java  
+     │    ├── ActivatePanelsCommand.java  
+     │    ├── DeactivatePanelsCommand.java  
+     │    └── CollectDataCommand.java  
+     ├── **observer/**  
+     │    ├── ISatelliteObserver.java  
+     │    └── Logger.java  
+     └── **exceptions/**  
+          ├── InvalidCommandException.java  
+          ├── InvalidDirectionException.java  
+          └── PanelInactiveException.java  
 
 ## ⚡ How to Compile
 From project root :
