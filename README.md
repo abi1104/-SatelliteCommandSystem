@@ -66,6 +66,7 @@ Exp2/
      ├──**exceptions/**  
      │    ├── InvalidCommandException.java  
      │    ├── InvalidDirectionException.java  
+     |    ├── PanelActiveException.java
      │    └── PanelInactiveException.java   
      └── Main.java  
 
