@@ -83,10 +83,13 @@ In simpler manner : start Debug and Run (VSCode)
 ## 💻 Sample Usage
 ### Initial Setup
  <img width="940" height="88" alt="image" src="https://github.com/user-attachments/assets/1ec80a15-efd0-4f52-b5ad-00776f727f54" />
+ 
 ### Basic Requirements 
 <img width="940" height="209" alt="image" src="https://github.com/user-attachments/assets/ebd4b614-cf2b-4f45-a0b3-f5c53e14a700" />
+
 ### Additional Features
 <img width="940" height="379" alt="image" src="https://github.com/user-attachments/assets/cca512d0-a96b-4fc9-b790-cdee93eb8181" />
+
 ### Exception Handling
 <img width="940" height="219" alt="image" src="https://github.com/user-attachments/assets/8faf9cfe-2186-4758-9822-f7691d949aaf" />
 
