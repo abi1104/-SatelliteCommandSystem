@@ -17,7 +17,7 @@ Two use cases for each pattern type (Behavioural,Creational,Structural)
 | **Structural**  | **Composite** | *File System*                       | Represents files and folders in a tree structure where both can be treated uniformly. |
 
 
-### Exp 2
+## Experiment 2: Mini Project - Satellite Command System
 ## 📌 Overview
 The **Satellite Command System** is a Java-based mini-project that simulates satellite operations such as:
 - Rotating (North, South, East, West)
