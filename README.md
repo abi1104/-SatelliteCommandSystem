@@ -1,4 +1,4 @@
-# 🛰️ Satellite Command System
+### 🛰️ Satellite Command System
 A mini-project simulating a Satellite Command System
 ### 📚 Exercise 1: Design Patterns – Problem Statement
 ## ✨ Overview
