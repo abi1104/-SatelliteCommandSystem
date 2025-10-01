@@ -9,9 +9,10 @@ Two use cases for each pattern type (Creational,Behavioural,Structural)
 ## 📝 Design Patterns Summary
 | **Category**    | **Pattern**   | **Use Case**                        | **Description**                                                          |
 | --------------- | ------------- | ----------------------------------- | ------------------------------------------------------------------------ |
-| **Behavioural** | **Observer**  | *Stock Market Notification System*  | Investors get notified whenever stock prices change.                     |
+| **Behavioural** | **State**     | *Traffic Light System*              | Manages traffic light states (Red, Green, Yellow)                        |
+|                 |               |                                     |   by changing behavior dynamically.                                      |
 | **Behavioural** | **Strategy**  | *Payment Gateway Selection*         | Allows dynamic selection of payment methods (Credit Card, UPI, Wallet).  |
-| **Creational**  | **Factory**   | *Logger Class*                      | Ensures a single instance of a logger throughout the app.                |
+| **Creational**  | **Factory**   | *Vending Machine Item Selection*    | Creates different vending machine items without exposing creation logic. |
 | **Creational**  | **Builder**   | *Computer Configuration System*     | Builds customizable computers with optional parts.                       |
 | **Structural**  | **Adapter**   | *Legacy Payment System Integration* | Integrates old payment system into new apps without changing code.       |
 | **Structural**  | **Composite** | *Online Coffee Shop*                | Dynamically adds ingredients (Milk, Sugar, Chocolate) to a coffee order. |
