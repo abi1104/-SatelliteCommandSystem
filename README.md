@@ -9,8 +9,8 @@ Two use cases for each pattern type (Creational,Behavioural,Structural)
 ## 📝 Design Patterns Summary
 | **Category**    | **Pattern**   | **Use Case**                        | **Description**                                                          |
 | --------------- | ------------- | ----------------------------------- | ------------------------------------------------------------------------ |
-| **Behavioural** | **State**     | *Traffic Light System*              | Manages traffic light states (Red, Green, Yellow)                        |
-|                 |               |                                     |   by changing behavior dynamically.                                      |
+| **Behavioural** | **State**     | *Traffic Light System*              | Manages traffic light states (Red, Green, Yellow)                        
+|                                                                         by changing behavior dynamically.                                        |
 | **Behavioural** | **Strategy**  | *Payment Gateway Selection*         | Allows dynamic selection of payment methods (Credit Card, UPI, Wallet).  |
 | **Creational**  | **Factory**   | *Vending Machine Item Selection*    | Creates different vending machine items without exposing creation logic. |
 | **Creational**  | **Builder**   | *Computer Configuration System*     | Builds customizable computers with optional parts.                       |
