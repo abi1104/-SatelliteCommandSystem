@@ -64,9 +64,9 @@ Exp2/
      │    ├── ISatelliteObserver.java  
      │    └── Logger.java  
      ├──**exceptions/**  
-     |     ├── InvalidCommandException.java  
-     |     ├── InvalidDirectionException.java  
-     |     └── PanelInactiveException.java  
+     │    ├── InvalidCommandException.java  
+     │    ├── InvalidDirectionException.java  
+     │    └── PanelInactiveException.java   
      └── Main.java  
 
 ## ⚡ How to Compile
