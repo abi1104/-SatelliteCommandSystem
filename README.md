@@ -49,7 +49,6 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 ## 📂 Project Structure
 Exp2/  
 └── **SatelliteSystem/**  
-     ├── Main.java  
      ├── **controller/**  
      │    └── SatelliteController.java  
      ├── **core/**  
@@ -68,6 +67,7 @@ Exp2/
      |     ├── InvalidCommandException.java  
      |     ├── InvalidDirectionException.java  
      |     └── PanelInactiveException.java 
+     ├── Main.java  
 
 ## ⚡ How to Compile
 From project root :
