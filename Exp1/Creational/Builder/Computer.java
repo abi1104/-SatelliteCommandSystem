@@ -1,6 +1,5 @@
 package Creational.Builder;
 
-// Product: immutable Computer
 public final class Computer {
     private final String CPU;
     private final String RAM;
@@ -8,7 +7,6 @@ public final class Computer {
     private final String graphicsCard;
     private final String operatingSystem;
 
-    // Private constructor: Only Builder can call this
     Computer(ComputerBuilder builder) {                
         this.CPU = builder.getCPU();                       
         this.RAM = builder.getRAM();                       
@@ -17,7 +15,6 @@ public final class Computer {
         this.operatingSystem = builder.getOperatingSystem(); 
     }
 
-    // Display the configuration
     public void displayConfig() {               
         System.out.println("Computer Configuration:");
         System.out.println("CPU: " + CPU);

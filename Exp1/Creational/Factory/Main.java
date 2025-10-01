@@ -5,11 +5,11 @@ public class Main {
         VendingFactory factory = new VendingFactory();
 
         VendingMachine item1 = factory.createItem("CoolDrink");
-        item1.dispense(); // Output: Dispensing Tea...
+        item1.dispense(); 
         VendingMachine item2 = factory.createItem("Chocolate");
-        item2.dispense(); // Output: Dispensing Chocolate...
+        item2.dispense(); 
 
-        //VendingMachine item3 = factory.createItem("Chips");
-        //item3.dispense(); // Output: Dispensing Chips...
+        VendingMachine item3 = factory.createItem("Chips");
+        item3.dispense(); 
     }
 }
