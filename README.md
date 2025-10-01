@@ -1,6 +1,6 @@
-### 🛰️ Satellite Command System
+## 🛰️ Satellite Command System
 A mini-project simulating a Satellite Command System
-### 📚 Exercise 1: Design Patterns – Problem Statement
+## 📚 Exercise 1: Design Patterns – Problem Statement
 ## ✨ Overview
 Demonstration of six different use cases understanding of Software Design Patterns.
 Two use cases for each pattern type (Behavioural,Creational,Structural)
