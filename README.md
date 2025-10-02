@@ -48,10 +48,10 @@ The project also includes enhancements like **Undo/Redo, Command History, Loggin
 ## 📝 Design Patterns Used
 | Pattern       | Type       | Where Used                                            | Why                                            |
 | ------------- | ---------- | ----------------------------------------------------- | ---------------------------------------------- |
-| **Command**   | Behavioral | `Rotate, ActivatePanels, DeactivatePanels, CollectData` | Encapsulates each action, supports Undo/Redo   |
-| **Singleton** | Creational | `SatelliteController`                                 | Ensures only one central controller instance   |
-| **Proxy**     | Structural | `SatelliteProxy`                                      | Validates and controls access to the Satellite |
-| **Observer**  | Behavioral | `Logger`                                              | Logs/monitors state changes automatically      |
+| **Command**   | Behavioral | Rotate, ActivatePanels, DeactivatePanels, CollectData | Encapsulates each action, supports Undo/Redo   |
+| **Singleton** | Creational | SatelliteController                                 | Ensures only one central controller instance   |
+| **Proxy**     | Structural | SatelliteProxy                                      | Validates and controls access to the Satellite |
+| **Observer**  | Behavioral | Logger                                              | Logs/monitors state changes automatically      |
 
 
 ## 📂 Project Structure
