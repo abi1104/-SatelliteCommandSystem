@@ -2,7 +2,7 @@
 A mini-project simulating a Satellite Command System
 ## 📚 Exercise 1: Design Patterns – Problem Statement
 ## ✨ Overview
-Demonstration of six different use cases understanding of Software Design Patterns.
+Demonstration of six different use cases for understanding Software Design Patterns.
 Two use cases for each pattern type (Behavioural,Creational,Structural)
 
 ## 📝 Design Patterns Summary
@@ -14,6 +14,14 @@ Two use cases for each pattern type (Behavioural,Creational,Structural)
 | **Creational**  | **Builder**   | *Computer Configuration System*     | Builds customizable computers with optional parts.                       |
 | **Structural**  | **Adapter**   | *Legacy Payment System Integration* | Integrates old payment system into new apps without changing code.       |
 | **Structural**  | **Composite** | *File System*                       | Represents files and folders in a tree structure where both can be treated uniformly. |
+
+## ⚡Compile and Run
+In simpler manner : Start Debug and Run in Main file (VSCode)
+**(or)**
+From root Exp1:
+For example : Compiling and running State Pattern
+Compile : javac -d bin Behavioural\Strategy\*.java
+Run : java -cp bin Behavioural.Strategy.Main
 
 ---
 ## 🛰️Experiment 2: Mini Project - Satellite Command System
@@ -78,7 +86,7 @@ From project root :
 From project root :
   java -cp Exp2/bin SatelliteSystem.Main
 ## ⚡ Compile and Run
-In simpler manner : start Debug and Run (VSCode)
+In simpler manner : Start Debug and Run (VSCode)
 
 ## 💻 Sample Usage
 ### Initial Setup
