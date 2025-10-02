@@ -16,12 +16,12 @@ Two use cases for each pattern type (Behavioural,Creational,Structural)
 | **Structural**  | **Composite** | *File System*                       | Represents files and folders in a tree structure where both can be treated uniformly. |
 
 ## ⚡Compile and Run
-In simpler manner : Start Debug and Run in Main file (VSCode)
-**(or)**
-From root Exp1:
-For example : Compiling and running State Pattern
-Compile : javac -d bin Behavioural\Strategy\*.java
-Run : java -cp bin Behavioural.Strategy.Main
+In simpler manner : Start Debug and Run in Main file (VSCode)  
+**(or)**  
+From root Exp1:  
+For example : Compiling and running State Pattern  
+Compile : javac -d bin Behavioural\Strategy\*.java  
+Run : java -cp bin Behavioural.Strategy.Main  
 
 ---
 ## 🛰️Experiment 2: Mini Project - Satellite Command System
